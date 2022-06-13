@@ -34,6 +34,11 @@
             <artifactId>cordapp</artifactId>
             <version>4.0.22</version>
         </dependency>
+        <dependency>
+            <groupId>net.corda.plugins</groupId>
+            <artifactId>cordformation</artifactId>
+            <version>4.0.25</version>
+        </dependency>
 
     </dependencies>
 
