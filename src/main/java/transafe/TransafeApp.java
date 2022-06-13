@@ -1,11 +1,11 @@
-package com.levo.dockerexample;
+package transafe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DockerApp {
+public class TransafeApp {
 	public static void main(String[] args) {
-		SpringApplication.run(DockerApp.class, args);
+		SpringApplication.run(TransafeApp.class, args);
 	}
 }
