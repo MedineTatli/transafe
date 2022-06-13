@@ -43,7 +43,7 @@
     </dependencies>
 
     <build>
-        <finalName>docker-java-app-transafe</finalName>
+        <finalName>docker-transafe</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
