@@ -28,12 +28,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/net.corda.plugins/cordapp -->
-        <dependency>
-            <groupId>net.corda.plugins</groupId>
-            <artifactId>cordapp</artifactId>
-            <version>4.0.22</version>
-        </dependency>
         <dependency>
             <groupId>net.corda.plugins</groupId>
             <artifactId>cordformation</artifactId>
